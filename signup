@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html><head><title>Welcome to iMaD and sign up</title>
+<link rel="stylesheet" href="...........">
+<link rel="icon" href=".............." size="40*40">
+</head>
+<body>
+
+
+
+<center><form action="action_page.php">
+  <div class="imgcontainer">
+    <img src=".................." alt="iMAD<br>IF YOU ARE MAD ABOUT DEVELOPING" class="avatar">
+  </div>
+
+  <div class="container">
+    <center><label><b>First Name</b></label>
+    <input type="text" placeholder="Your First Name" name="fstname" required><br>
+<label><b>Last Name</b></label>
+    <input type="text" placeholder="Your Last Name" name="lstname" required><br>
+<label><b>Mobile or email</b></label>
+    <input type="text" placeholder="Mobile or email" name="mobail" required><br>
+<label><b>Re-enter mobile or email</b></label>
+    <input type="text" placeholder="re-enter mobile or email" name="re-mobail" required><br>
+
+    <label><b>New Password</b></label>&nbsp;
+    <input type="password" placeholder="Create Password" name="psw" required><br>
+
+   <center> <button type="submit" id="sup">Sign up</button>  </center> <br>
+    
+  </div>
+
+  <div class="container" style="background-color:#f1f1f1">
+    <a href="..............">Already have an account</a>
+    
+</form></center>
+
+</body>
+</html>
